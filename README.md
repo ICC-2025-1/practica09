@@ -3,20 +3,20 @@
 El objetivo de esta práctica es que el alumno ejercite la de aplicación y uso de arreglos.
 
 ## Equipo #(Numero) 
-(Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
+(Santiago) (Morales) (Morgado )
 
 (No. Cuenta 1)
 
 (Correo1)
 
-(Nombre2) (ApellidoPaterno2) (ApellidoMaterno2)
+(Emilio) (Paniagua) (Bocanegra)
 
 (No. Cuenta 2)
 
 (Correo2)
 
 ## Instrucciones
-(Escribe las instrucciones de ejecución aquí)
+(compilar con javac , y luego correrlo con java (nombre_del_archivo )
 
 ## Comentarios
 1. Puedes utilizar todo lo revisado hasta el momento.
